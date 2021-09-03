@@ -1,5 +1,6 @@
 # TodoList
-
+A basic Todo List application.
+[![Demo Doccou alpha](https://cdn.loom.com/sessions/thumbnails/550b846ff05f4159ba7b1c825597d1b1-with-play.gif)](https://www.loom.com/embed/550b846ff05f4159ba7b1c825597d1b1)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
 ## Development server
